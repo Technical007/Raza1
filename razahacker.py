@@ -122,7 +122,7 @@ jalan("\033[1;96m██████╔╝███████║░░███
 jalan("\033[1;96m██╔══██╗██╔══██║██╔══╝░░██╔══██║
 jalan("\033[1;96m██║░░██║██║░░██║███████╗██║░░██║
 jalan("\033[1;96m╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝                                         
-jalan('\033[1;93m              Welcome to Raza')
+                         ('Welcome to Raza')
 print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mRaza\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
 CorrectUsername = "Raza"
@@ -441,7 +441,7 @@ def pilih_super():
 	print "\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mRaza\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;93m«---•◈•---Developed By Raza-Hacker--•◈•---»" #Dev:Raza_hacker
 	print '\033[1;96m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 razahacker.py)↩\033[1;97m....'
-	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;93m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
+	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;93m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(successfull))
 	print """
               _______  _        ______  
              (  ____ \( (    /|(  __  \ 
